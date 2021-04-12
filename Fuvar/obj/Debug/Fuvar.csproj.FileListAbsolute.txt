@@ -1,0 +1,7 @@
+D:\C#programs\Ruander\20210412\Fuvar\Fuvar\bin\Debug\Fuvar.exe.config
+D:\C#programs\Ruander\20210412\Fuvar\Fuvar\bin\Debug\Fuvar.exe
+D:\C#programs\Ruander\20210412\Fuvar\Fuvar\bin\Debug\Fuvar.pdb
+D:\C#programs\Ruander\20210412\Fuvar\Fuvar\obj\Debug\Fuvar.csprojAssemblyReference.cache
+D:\C#programs\Ruander\20210412\Fuvar\Fuvar\obj\Debug\Fuvar.csproj.CoreCompileInputs.cache
+D:\C#programs\Ruander\20210412\Fuvar\Fuvar\obj\Debug\Fuvar.exe
+D:\C#programs\Ruander\20210412\Fuvar\Fuvar\obj\Debug\Fuvar.pdb
